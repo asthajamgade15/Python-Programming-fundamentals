@@ -27,6 +27,14 @@ The notebook (`python_fundamentals.ipynb`) covers:
 - NumPy for numerical and statistical operations
 - Designing reusable functions with docstrings
 
+### Output Preview
+
+![NumPy & Compound Interest](screenshots/py_preview_01_numpy_stats.png)
+
+![Exception Handling](screenshots/py_preview_02_exceptions.png)
+
+![Pythagorean Triplets](screenshots/py_preview_03_triplets.png)
+
 ## How to Run
 1. Clone this repository
 2. Install NumPy: `pip install numpy`
